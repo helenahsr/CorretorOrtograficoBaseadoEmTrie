@@ -33,6 +33,7 @@
             this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dicionárioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listaDePalavrasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.bloquearInserçãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ajudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sobreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
@@ -46,7 +47,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.lstPalavrasAdicionadas = new System.Windows.Forms.ListBox();
-            this.bloquearInserçãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -76,8 +76,8 @@
             // abrirToolStripMenuItem
             // 
             this.abrirToolStripMenuItem.Name = "abrirToolStripMenuItem";
-            this.abrirToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
-            this.abrirToolStripMenuItem.Text = "Abrir";
+            this.abrirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.abrirToolStripMenuItem.Text = "Abrir (.txt)";
             this.abrirToolStripMenuItem.Click += new System.EventHandler(this.abrirToolStripMenuItem_Click);
             // 
             // dicionárioToolStripMenuItem
@@ -92,9 +92,17 @@
             // listaDePalavrasToolStripMenuItem
             // 
             this.listaDePalavrasToolStripMenuItem.Name = "listaDePalavrasToolStripMenuItem";
-            this.listaDePalavrasToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.listaDePalavrasToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
             this.listaDePalavrasToolStripMenuItem.Text = "Lista de Palavras";
             this.listaDePalavrasToolStripMenuItem.Click += new System.EventHandler(this.listaDePalavrasToolStripMenuItem_Click);
+            // 
+            // bloquearInserçãoToolStripMenuItem
+            // 
+            this.bloquearInserçãoToolStripMenuItem.CheckOnClick = true;
+            this.bloquearInserçãoToolStripMenuItem.Name = "bloquearInserçãoToolStripMenuItem";
+            this.bloquearInserçãoToolStripMenuItem.Size = new System.Drawing.Size(168, 22);
+            this.bloquearInserçãoToolStripMenuItem.Text = "Bloquear inserção";
+            this.bloquearInserçãoToolStripMenuItem.Click += new System.EventHandler(this.bloquearInserçãoToolStripMenuItem_Click);
             // 
             // ajudaToolStripMenuItem
             // 
@@ -232,14 +240,6 @@
             this.lstPalavrasAdicionadas.Name = "lstPalavrasAdicionadas";
             this.lstPalavrasAdicionadas.Size = new System.Drawing.Size(390, 344);
             this.lstPalavrasAdicionadas.TabIndex = 0;
-            // 
-            // bloquearInserçãoToolStripMenuItem
-            // 
-            this.bloquearInserçãoToolStripMenuItem.CheckOnClick = true;
-            this.bloquearInserçãoToolStripMenuItem.Name = "bloquearInserçãoToolStripMenuItem";
-            this.bloquearInserçãoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.bloquearInserçãoToolStripMenuItem.Text = "Bloquear inserção";
-            this.bloquearInserçãoToolStripMenuItem.Click += new System.EventHandler(this.bloquearInserçãoToolStripMenuItem_Click);
             // 
             // Form1
             // 

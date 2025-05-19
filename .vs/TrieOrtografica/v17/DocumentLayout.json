@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Faculdade COTEMIG\\AEDII\\CorretorOrtograficoBaseadoEmTrie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4998C538-7084-4025-8CA4-06BD96D821D8}|TrieOrtografica.csproj|D:\\Faculdade COTEMIG\\AEDII\\CorretorOrtograficoBaseadoEmTrie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4998C538-7084-4025-8CA4-06BD96D821D8}|TrieOrtografica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4998C538-7084-4025-8CA4-06BD96D821D8}|TrieOrtografica.csproj|d:\\faculdade cotemig\\aedii\\corretorortograficobaseadoemtrie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4998C538-7084-4025-8CA4-06BD96D821D8}|TrieOrtografica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4998C538-7084-4025-8CA4-06BD96D821D8}|TrieOrtografica.csproj|D:\\Faculdade COTEMIG\\AEDII\\CorretorOrtograficoBaseadoEmTrie\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4998C538-7084-4025-8CA4-06BD96D821D8}|TrieOrtografica.csproj|solutionrelative:trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trie.cs",
+              "DocumentMoniker": "D:\\Faculdade COTEMIG\\AEDII\\CorretorOrtograficoBaseadoEmTrie\\Trie.cs",
+              "RelativeDocumentMoniker": "Trie.cs",
+              "ToolTip": "D:\\Faculdade COTEMIG\\AEDII\\CorretorOrtograficoBaseadoEmTrie\\Trie.cs",
+              "RelativeToolTip": "Trie.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA0wB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:07:18.348Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Faculdade COTEMIG\\AEDII\\CorretorOrtograficoBaseadoEmTrie\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Faculdade COTEMIG\\AEDII\\CorretorOrtograficoBaseadoEmTrie\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:07:38.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Faculdade COTEMIG\\AEDII\\CorretorOrtograficoBaseadoEmTrie\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Faculdade COTEMIG\\AEDII\\CorretorOrtograficoBaseadoEmTrie\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:07:35.973Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
