@@ -8,3 +8,13 @@ D:\Faculdade COTEMIG\AEDII\TrieOrtografica\obj\Debug\TrieOrtografica.csproj.Gene
 D:\Faculdade COTEMIG\AEDII\TrieOrtografica\obj\Debug\TrieOrtografica.csproj.CoreCompileInputs.cache
 D:\Faculdade COTEMIG\AEDII\TrieOrtografica\obj\Debug\TrieOrtografica.exe
 D:\Faculdade COTEMIG\AEDII\TrieOrtografica\obj\Debug\TrieOrtografica.pdb
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\bin\Debug\TrieOrtografica.exe.config
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\bin\Debug\TrieOrtografica.exe
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\bin\Debug\TrieOrtografica.pdb
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\obj\Debug\TrieOrtografica.csproj.AssemblyReference.cache
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\obj\Debug\TrieOrtografica.Form1.resources
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\obj\Debug\TrieOrtografica.Properties.Resources.resources
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\obj\Debug\TrieOrtografica.csproj.GenerateResource.cache
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\obj\Debug\TrieOrtografica.csproj.CoreCompileInputs.cache
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\obj\Debug\TrieOrtografica.exe
+D:\Faculdade COTEMIG\AEDII\CorretorOrtograficoBaseadoEmTrie\obj\Debug\TrieOrtografica.pdb
