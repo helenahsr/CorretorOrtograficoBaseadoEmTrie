@@ -14,9 +14,9 @@ Feito para apresentação no seminário de AED-II em 19/05/2025.
 
 O projeto consiste nos seguintes arquivos principais:
 
-* **`TrieNode.cs`:** Define a estrutura do nó da Trie. Cada nó representa um caractere (ou o final de uma palavra).
+* **`TrieNo.cs`:** Define a estrutura do nó da Trie. Cada nó representa um caractere (ou o final de uma palavra).
 * **`Trie.cs`:** Implementa a classe Trie, contendo os métodos para inserir palavras e buscar sugestões por prefixo.
-* **`Program.cs` (ou um arquivo de exemplo):** Contém um exemplo de uso da Trie, demonstrando a inserção de palavras e a busca por sugestões.
+* **`Form1.cs`:** Contém um exemplo de uso da Trie, demonstrando a inserção de palavras e a busca por sugestões.
 * **`README.md`:** Este arquivo, fornecendo informações sobre o projeto.
 
 ## Como Usar
